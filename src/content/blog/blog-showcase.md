@@ -2,9 +2,10 @@
 _schema: default
 date: 2025-10-14T00:00:00Z
 title: 'Blog Showcase: The Ultimate Email Markdown Styling Guide'
+draft: false
+author: Markdown McEmailface
 tags:
   - showcase
-author: Markdown McEmailface
 thumb_image:
   image: /images/blog/brett-jordan-lpzy4da9aro-unsplash.jpg
   image_alt: Creative markdown formatting examples
@@ -21,7 +22,6 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-draft: false
 ---
 Welcome to the **most comprehensive markdown styling guide** you've ever seen for email campaigns! Whether you're crafting your first newsletter or you're a seasoned email veteran, this post showcases *every single markdown element* you can use to make your emails pop.
 
@@ -46,6 +46,14 @@ Before we dive into the formatting feast, let's talk about why markdown is your 
 ###### H6: The Smallest Star
 
 **Pro tip:** Use H1 sparingly (usually just once for your main title), and structure your content with H2-H3 for maximum readability!
+
+&nbsp;
+
+This <br>key allows you to configure how the Visual Editor renders newline characters. You can use this key to match the Visual Editor's behavior to your SSG's Markdown engine.
+
+<p class="align-center">If true, CloudCannon will <br />render newline characters within paragraphs as &lt;br&gt; tags in the Visual Editor. CloudCannon will also change all &lt;br&gt; tags in the file into newline characters before saving to preserve your original formatting.</p>
+
+<p class="align-right">If false, CloudCannon will render newline characters within paragraphs normally when converted to HTML in the Visual Editor (i.e., collapsed by default). You can use Shift + Enter to add a linebreak within a paragraph. CloudCannon will save this as a &lt;br&gt; to ensure the linebreak appears when the site is built.</p>
 
 ---
 
