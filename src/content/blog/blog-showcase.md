@@ -53,7 +53,11 @@ This <br>key allows you to configure how the Visual Editor renders newline chara
 
 <p class="align-center">If true, CloudCannon will <br />render newline characters within paragraphs as &lt;br&gt; tags in the Visual Editor. CloudCannon will also change all &lt;br&gt; tags in the file into newline characters before saving to preserve your original formatting.</p>
 
-<p class="align-right">If false, CloudCannon will render newline characters within paragraphs normally when converted to HTML in the Visual Editor (i.e., collapsed by default). You can use Shift + Enter to add a linebreak within a paragraph. CloudCannon will save this as a &lt;br&gt; to ensure the linebreak appears when the site is built.</p>
+<p class="align-right">If false, <br />CloudCannon will render newline characters within paragraphs normally when converted to HTML in the Visual Editor (i.e., collapsed by default). You can use Shift + Enter to add a linebreak within a paragraph. CloudCannon will save this as a &lt;br&gt; to ensure the linebreak appears when the site is built.<br /></p>
+
+<p class="align-right">Here's where things get <em>really</em> interesting. Let's explore<br /> all the ways you can emphasize your text:</p>
+
+**Bold text** makes <br>your key points impossible to miss—perfect for those crucial call-to-action phrases like "**Limited Time Offer**" or "**Subscribe Now**".
 
 ---
 
