@@ -23,8 +23,7 @@ seo:
   open_graph_type: article
   no_index: false
 ---
-Before we dive
- into the formatting feast, let's talk about markdown5
+Before we dive<br> into the formatting feast, let's talk about markdown5
 
 <p class="align-center">Before we dive<br /> into the formatting feast, let's talk about markdown6</p>
 
