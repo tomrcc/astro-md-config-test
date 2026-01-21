@@ -5,8 +5,8 @@ paths:
 markdown:
   engine: commonmark
   options:
-    xhtml: false
-    breaks: true
+    xhtml: true
+    breaks: false
     linkify: false
     typographer: false
     spaced_lists: false
