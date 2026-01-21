@@ -23,6 +23,23 @@ seo:
   open_graph_type: article
   no_index: false
 ---
+Before we
+ dive into the formatting feast, let's talk about markdown1
+
+<p class="align-center">Before we <br />dive into the formatting feast, let's talk about markdown2</p>
+
+<p class="align-right">Before we <br />dive into the formatting feast, let's talk about markdown3</p>
+
+<p class="align-justify">Before we <br />dive into the formatting feast, let's talk about markdown4</p>
+
+Before we dive into the formatting feast, let's talk about markdown5
+
+Before we dive into the formatting feast, let's talk about markdown6
+
+Before we dive into the formatting feast, let's talk about markdown7
+
+Before we dive into the formatting feast, let's talk about markdown8
+
 Welcome to the **most comprehensive markdown styling guide** you've ever seen for email campaigns! Whether you're crafting your first newsletter or you're a seasoned email veteran, this post showcases *every single markdown element* you can use to make your emails pop.
 
 ## Why Markdown Matters for Email 📧
@@ -49,7 +66,7 @@ Before we dive into the formatting feast, let's talk about why markdown is your 
 
 &nbsp;
 
-This <br>key allows you to configure how the Visual Editor renders newline characters. You can use this key to match the Visual Editor's behavior to your SSG's Markdown engine.
+This key allows you to configure how the Visual Editor renders newline characters. You can use this key to match the Visual Editor's behavior to your SSG's Markdown engine.
 
 <p class="align-center">If true, CloudCannon will <br />render newline characters within paragraphs as &lt;br&gt; tags in the Visual Editor. CloudCannon will also change all &lt;br&gt; tags in the file into newline characters before saving to preserve your original formatting.</p>
 
@@ -57,7 +74,7 @@ This <br>key allows you to configure how the Visual Editor renders newline chara
 
 <p class="align-right">Here's where things get <em>really</em> interesting. Let's explore<br /> all the ways you can emphasize your text:</p>
 
-**Bold text** makes <br>your key points impossible to miss—perfect for those crucial call-to-action phrases like "**Limited Time Offer**" or "**Subscribe Now**".
+**Bold text** makes your key points impossible to miss—perfect for those crucial call-to-action phrases like "**Limited Time Offer**" or "**Subscribe Now**".
 
 ---
 
