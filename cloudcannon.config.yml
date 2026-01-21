@@ -5,7 +5,7 @@ paths:
 markdown:
   engine: commonmark
   options:
-    xhtml: true
+    xhtml: false
     breaks: false
     linkify: false
     typographer: false
