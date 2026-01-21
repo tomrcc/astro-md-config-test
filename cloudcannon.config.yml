@@ -6,7 +6,7 @@ markdown:
   engine: commonmark
   options:
     xhtml: false
-    breaks: false
+    breaks: true
     linkify: false
     typographer: false
     spaced_lists: false
