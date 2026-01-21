@@ -23,13 +23,13 @@ seo:
   open_graph_type: article
   no_index: false
 ---
-Before we dive<br /> into the formatting feast, let's talk about markdown5
+Before we dive into the formatting feast, let's talk about markdown5
 
 <p class="align-center">Before we dive into the formatting feast, let's talk about markdown6</p>
 
-<p class="align-right">Before we dive<br /> into the formatting feast, let's talk about markdown7</p>
+<p class="align-right">Before we dive into the formatting feast, let's talk about markdown7</p>
 
-<p class="align-justify">Before we dive<br /> into the formatting feast, let's talk about markdown8</p>
+<p class="align-justify">Before we dive into the formatting feast, let's talk about markdown8</p>
 
 Welcome to the **most comprehensive markdown styling guide** you've ever seen for email campaigns! Whether you're crafting your first newsletter or you're a seasoned email veteran, this post showcases *every single markdown element* you can use to make your emails pop.
 
